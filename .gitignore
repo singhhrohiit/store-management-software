@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment file
+.env
+
+# Prisma generated folder
+/generated/prisma
+
+# Local SQLite database (Prisma)
+dev.db
+*.db
+
+# Next.js build folders
+.next/
+out/
+
+# Editor / system files
+.vscode/
+.DS_Store
